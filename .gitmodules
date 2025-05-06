@@ -1,0 +1,6 @@
+[submodule "redirect-ts"]
+	path = redirect-ts
+	url = https://github.com/std46d6b/redirect-ts.git
+[submodule "tg-admin"]
+	path = tg-admin
+	url = https://github.com/std46d6b/redirect-tg.git
